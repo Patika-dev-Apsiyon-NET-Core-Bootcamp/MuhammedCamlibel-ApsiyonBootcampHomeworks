@@ -1,0 +1,17 @@
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Business\bin\Debug\net5.0\Odev2.Business.deps.json
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Business\bin\Debug\net5.0\Odev2.Business.dll
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Business\bin\Debug\net5.0\ref\Odev2.Business.dll
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Business\bin\Debug\net5.0\Odev2.Business.pdb
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Business\bin\Debug\net5.0\Odev2.Data.dll
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Business\bin\Debug\net5.0\Odev2.Entity.dll
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Business\bin\Debug\net5.0\Odev2.Data.pdb
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Business\bin\Debug\net5.0\Odev2.Entity.pdb
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Business\obj\Debug\net5.0\Odev2.Business.csprojAssemblyReference.cache
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Business\obj\Debug\net5.0\Odev2.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Business\obj\Debug\net5.0\Odev2.Business.AssemblyInfoInputs.cache
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Business\obj\Debug\net5.0\Odev2.Business.AssemblyInfo.cs
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Business\obj\Debug\net5.0\Odev2.Business.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Business\obj\Debug\net5.0\Odev2.Business.csproj.CopyComplete
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Business\obj\Debug\net5.0\Odev2.Business.dll
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Business\obj\Debug\net5.0\ref\Odev2.Business.dll
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Business\obj\Debug\net5.0\Odev2.Business.pdb

@@ -1,0 +1,15 @@
+﻿@model YorumViewModel
+ 
+<form asp-action="YorumEkle" method="post">
+
+    <label asp-for="UserName"></label>
+    <input asp-for="UserName" />
+    <label asp-for="YorumMetni"></label>
+    <input asp-for="YorumMetni" />
+    @*<label asp-for="YaziId"></label>
+    <input asp-for="YaziId" value="@ViewBag.YaziId" />*@
+    <input type="hidden" asp-for="YaziId"  value="@ViewBag.YaziId" />
+
+    <button type="submit"> Ekle </button>
+
+</form>

@@ -1,0 +1,28 @@
+﻿@model List<BookViewModel>
+
+<div>
+    <div class="row">
+        @foreach (var item in Model)
+        {
+
+            <div class="col-md-4">
+                <h2>@item.Name</h2>
+                <h2>@item.Author</h2>
+                <h2>@item.Year</h2>
+                <p>@item.Description</p>
+                <form asp-action="AddFavorite" asp-controller="Book" method="post">
+                    <input type="hidden" name="Name" value="@item.Name" />
+                    <input type="submit" value="Favoriye Ekle" class="btn btn-primary" />
+
+                </form>
+            </div>
+
+
+
+
+
+        }
+    </div>
+    </div>
+
+

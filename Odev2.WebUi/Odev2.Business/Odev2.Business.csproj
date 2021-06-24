@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Odev2.Data\Odev2.Data.csproj" />
+    <ProjectReference Include="..\Odev2.Entity\Odev2.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

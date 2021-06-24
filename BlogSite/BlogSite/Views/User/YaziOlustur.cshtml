@@ -1,0 +1,16 @@
+﻿@model YaziViewModel
+
+<form asp-action="YaziOlustur" method="post">
+    <label asp-for="UserName"></label>
+    <input asp-for="UserName" />
+    <label asp-for="YaziAlanı"></label>
+    <input asp-for="YaziAlanı" />
+    
+    <select name="Kategoriler"  asp-items="@(new SelectList(ViewBag.Kategoriler,"Id","Adi"))" multiple >
+        <option >Kategori Seçin</option>
+    </select>
+
+    
+
+    <button type="submit">Ekle</button>
+</form>

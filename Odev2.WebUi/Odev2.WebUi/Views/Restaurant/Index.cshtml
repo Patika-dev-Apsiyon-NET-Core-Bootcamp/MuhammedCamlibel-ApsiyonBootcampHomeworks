@@ -1,0 +1,35 @@
+﻿@model List<Restaurant>
+
+<div class="container">
+    <h1>Restaurants</h1>
+    <a href="/Restaurant/RestaurantCreate" class="btn btn-success">Create Restaurant</a>
+    <hr />
+
+    @if (Model.Count == 0)
+    {
+        <h2> There is no restaurant registered, please become a member and create a restaurant </h2>
+    }
+    else
+    {
+        @foreach (var restaurant in Model)
+        {
+            <div class="row">
+
+                <div class="col-6">
+
+                    <h2>@restaurant.RestaurantName</h2>
+                    <a href="/Restaurant/Detail/@restaurant.Id">Details</a>
+                    <a href="/Restaurant/AddFood/@restaurant.Id">AddFood</a>
+
+                </div>
+
+            </div>
+            <hr />
+
+        }
+    }
+
+
+
+</div>
+

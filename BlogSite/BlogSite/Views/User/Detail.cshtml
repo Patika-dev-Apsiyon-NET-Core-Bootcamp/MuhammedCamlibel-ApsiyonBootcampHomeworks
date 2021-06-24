@@ -1,0 +1,19 @@
+﻿@model Yazi
+
+    <div>
+        <h1>Metin</h1>
+        <p> @Model.YaziMetni </p>
+    </div>
+    <hr />
+    <div>
+        <h2>Yorumlar</h2>
+    </div>
+    <hr />  
+    @foreach (var item in Model.Yorumlar)
+    {
+        <div>
+            <h3>Yorum sahibi : @item.User.UserName </h3> 
+            <p> @item.YorumMetni </p>
+        </div>
+       <hr /> 
+    }

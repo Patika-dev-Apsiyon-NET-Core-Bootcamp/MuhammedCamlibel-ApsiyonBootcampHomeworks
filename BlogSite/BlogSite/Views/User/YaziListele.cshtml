@@ -1,0 +1,13 @@
+﻿@model List<Yazi>
+
+@foreach (var item in Model)
+{
+    <div>
+         
+        <h2> Yazar : @item.User.UserName</h2> 
+        <p> @item.YaziMetni </p>
+        <a href="/User/YaziyaGit/@item.Id">Yaziya Git</a>
+        <a href="/User/YorumEkle/@item.Id">Yorum Ekle</a>
+    </div>  
+    
+}

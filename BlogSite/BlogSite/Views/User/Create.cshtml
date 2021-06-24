@@ -1,0 +1,16 @@
+﻿@model User
+
+<form asp-action="Create" method="post">
+
+    <label asp-for="Name"></label>
+    <input asp-for="Name" />
+    <label asp-for="SurName"></label>
+    <input asp-for="SurName" />
+    <label asp-for="UserName"></label>
+    <input asp-for="UserName" />
+    <label asp-for="BirthdayYear"></label>
+    <input asp-for="BirthdayYear" />
+
+    <button type="submit">Kaydet</button>
+
+</form> 

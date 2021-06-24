@@ -1,0 +1,9 @@
+﻿@model string
+
+
+<h1>Favori kitabın : @Model </h1>
+
+@if(string.IsNullOrWhiteSpace(Model))
+{
+    <h1> @ViewBag.mesaj </h1>
+}

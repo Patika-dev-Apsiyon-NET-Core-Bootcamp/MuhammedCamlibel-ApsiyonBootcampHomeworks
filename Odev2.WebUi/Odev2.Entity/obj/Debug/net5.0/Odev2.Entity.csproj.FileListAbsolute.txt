@@ -1,0 +1,12 @@
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Entity\bin\Debug\net5.0\Odev2.Entity.deps.json
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Entity\bin\Debug\net5.0\Odev2.Entity.dll
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Entity\bin\Debug\net5.0\ref\Odev2.Entity.dll
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Entity\bin\Debug\net5.0\Odev2.Entity.pdb
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Entity\obj\Debug\net5.0\Odev2.Entity.csprojAssemblyReference.cache
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Entity\obj\Debug\net5.0\Odev2.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Entity\obj\Debug\net5.0\Odev2.Entity.AssemblyInfoInputs.cache
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Entity\obj\Debug\net5.0\Odev2.Entity.AssemblyInfo.cs
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Entity\obj\Debug\net5.0\Odev2.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Entity\obj\Debug\net5.0\Odev2.Entity.dll
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Entity\obj\Debug\net5.0\ref\Odev2.Entity.dll
+C:\Users\Muhammed\source\repos\Odev2.WebUi\Odev2.Entity\obj\Debug\net5.0\Odev2.Entity.pdb
